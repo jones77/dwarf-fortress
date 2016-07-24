@@ -23,15 +23,17 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
 
 So, what do all these silly symbols even mean?
 
+0. ` `
+  * Used for background tiles in the intro CMV and background tiles of interface screens
+1. `☺#` Civilian dwarves
+2. `☻#` Military dwarves
+3. `♥` Dimple cups
+4. `♦` Cut gems, large gems
+5. `♣` Fungiwood trees, Spore trees, Acacia trees, Mangrove trees, Maple trees, quarry bushes, Alder trees, Birch trees
+6. `♠` Plump helmets, Tower-caps, Black-caps, Goblin-caps, Nether-caps, Oak trees, quarry bush leaves, Mahogany trees, Chestnut trees, Ash trees
+7. `•` Stone, solid workshop tile for several workshops like the magma smelter, river sources in main map, caves in main map, moon on travel map
+
 ```
-00   Used for background tiles in the intro CMV and background tiles of interface screens
-01 ☺# Civilian dwarves
-02 ☻# Military dwarves
-03 ♥ Dimple cups*
-04 ♦ Cut gems, large gems
-05 ♣ Fungiwood trees*, Spore trees*, Acacia trees*, Mangrove trees*, Maple trees*, quarry bushes*, Alder trees*, Birch trees*
-06 ♠ Plump helmets*, Tower-caps*, Black-caps*, Goblin-caps*, Nether-caps*, Oak trees*, quarry bush leaves*, Mahogany trees*, Chestnut trees*, Ash trees*
-07 • Stone*, solid workshop tile for several workshops like the magma smelter, river sources in main map, caves in main map, moon on travel map
 08 ◘ Solid workshop tile for several other workshops like the magma forge, tanner's shop, catapult cup, fortress keeps on travel map, nest box tool*, nest box building, book
 09 ○ Well, vermin colony, millstone, quern, vertical axle, fortress walls on travel map, sun behind clouds on travel map, fortresses on world map
 10 ◙ Unknown
