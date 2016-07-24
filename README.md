@@ -38,77 +38,207 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
   * quarry bushes
   * Alder trees
   * Birch trees
-6. `♠` Plump helmets, Tower-caps, Black-caps, Goblin-caps, Nether-caps, Oak trees, quarry bush leaves, Mahogany trees, Chestnut trees, Ash trees
-7. `•` Stone, solid workshop tile for several workshops like the magma smelter, river sources in main map, caves in main map, moon on travel map
-
-```
-08 ◘ Solid workshop tile for several other workshops like the magma forge, tanner's shop, catapult cup, fortress keeps on travel map, nest box tool*, nest box building, book
-09 ○ Well, vermin colony, millstone, quern, vertical axle, fortress walls on travel map, sun behind clouds on travel map, fortresses on world map
-10 ◙ Unknown
-11 ♂ Male sign, bags
-12 ♀ Female sign, amulet
-13 ♪ Ladles*
-14 ♫ Armor stands
-15 ☼ Unmined Gem Cluster*, Rough Gems and Raw Glass, unmined bituminous coal*, mined bituminous coal*, currency symbol, masterpiece quality symbol, spider webs, pond turtle*, sun, gear assemblies, fireballs, bandit camps on travel map
-16 ► Head of Ballista arrow facing east, manta ray*
-17 ◄ Head of Ballista arrow facing west
-18 ↕
-19 ‼ Cages, on-fire symbol, vertical bars
-20 ¶ Mugs, largest forest retreats, cumulonimbus clouds on travel map, Highwood trees*
-21 § Restraints, whip vine*
-22 ▬ Logs, hive tool*, hive building
-23 ↨ Cedar* trees
-24 ↑ Interface text (bridge direction), Pine* trees, Larch* trees, some conifer forests on world map
-25 ↓ Hungry/thirsty/drowsy/unhappy indicator, bridge placement raising direction indicator
-26 → Interface text (bridge direction)
-27 ← Interface text (bridge direction)
-28 ∟
-29 ↔
-30 ▲ Head of Ballista arrow facing north, ramp up, track ramp up
-31 ▼ Head of Ballista arrow facing south, ramp down, track ramp down
-32   Unexplored underground, spaces in text messages, black background on the title screen and interface menu
-33 ! Various status icons, text
-34 " Shrub*, quotation marks, Carpenter's workshop tile, kobold's glowing eyes*
-35 # floor grates, labyrinths on travel map, text
-
-    Sandstone*, Rock salt*, Basalt*, Gypsum* 
-
-36 $ Coins
-37 % Prepared meal, unexplored underground, screw pump in action
-
-    Siltstone*, Slate*, Brimstone*, Kimberlite*, Bismuthinite*, Realgar*, Stibnite*, Marcasite*, Olivine*, Orthoclase*, Microcline*, Petrified wood*, Brimstone*, Pyrolusite* 
-
-38 & Demons
-39 ' Rough floors, unexplored underground, Claystone*, Rhyolite*, Periclase*
-40 ( Foreign object opening tag, tile in bowyer's workshop, waxing moon on travel map, text
-41 ) Foreign object closing tag, waning moon on travel map, text
-42 * Ore*, glowing pits, superior quality tags, key reference, working gear assembly, gem floodgate, Lignite*
-43 + Smooth/constructed floors, injured status, finely-crafted quality tags, text, block/bar bridge or road, towns on world map
-44 , Rough floors, Claystone*, unexplored underground, text
-45 - Scepters, arrows in flight, well-crafted quality tags, keyboard reference, Part of animation when two creatures or dwarves are on the same spot
-46 . Rough floors, Dacite*, text, unexplored underground
-47 / Weapons, bolts, Ballista tile, text
-48 0 Coffins, text
-49 1 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-50 2 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-51 3 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-52 4 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-53 5 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-54 6 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-55 7 Text, fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
-56 8 Fortress gates on travel map, text
-57 9 Text
-58 : Wild strawberry*, prickle berry*, fisher berry*, sun berry*, snowstorms, underground shrubs*, command menu text
-59 ; Mason's workshop, Kitchen, command menu text (Movies key)
-60 < Stairs up, brackets around squad names, "Less than 1 unit weight" on Trading screen.
-```
+6. `♠`
+  * Plump helmets
+  * Tower-caps
+  * Black-caps
+  * Goblin-caps
+  * Nether-caps
+  * Oak trees
+  * quarry bush leaves
+  * Mahogany trees
+  * Chestnut trees
+  * Ash trees
+7. `•`
+  * Stone
+  * solid workshop tile for several workshops like the magma smelter
+  * river sources in main map
+  * caves in main map
+  * moon on travel map
+8. ◘ Solid workshop tile for several other workshops like the magma forge
+  * tanner's shop
+  * catapult cup
+  * fortress keeps on travel map
+  * nest box tool
+  * nest box building
+  * book
+9. ○ Well
+  * vermin colony
+  * millstone
+  * quern
+  * vertical axle
+  * fortress walls on travel map
+  * sun behind clouds on travel map
+  * fortresses on world map
+10. ◙ Unknown
+11. ♂ Male sign
+  * bags
+12. ♀ Female sign
+  * amulet
+13. ♪ Ladles
+14. ♫ Armor stands
+15. ☼ Unmined Gem Cluster
+  * Rough Gems and Raw Glass
+  * unmined bituminous coal
+  * mined bituminous coal
+  * currency symbol
+  * masterpiece quality symbol
+  * spider webs
+  * pond turtle
+  * sun
+  * gear assemblies
+  * fireballs
+  * bandit camps on travel map
+16. ► Head of Ballista arrow facing east
+  * manta ray
+17. ◄ Head of Ballista arrow facing west
+18. ↕
+19. ‼ Cages
+  *on-fire symbol
+  * vertical bars
+20. ¶ Mugs
+  * largest forest retreats
+  * cumulonimbus clouds on travel map
+  * Highwood trees
+21. § Restraints
+  * whip vine
+22. ▬ Logs
+  * hive tool
+  * hive building
+23. ↨ Cedar* trees
+24. ↑ Interface text (bridge direction)
+  * Pine* trees
+  * Larch* trees
+  * some conifer forests on world map
+25. ↓ Hungry/thirsty/drowsy/unhappy indicator
+  * bridge placement raising direction indicator
+26. → Interface text (bridge direction)
+27. ← Interface text (bridge direction)
+28. ∟
+29. ↔
+30. ▲ Head of Ballista arrow facing north
+  * ramp up
+  * track ramp up
+31. ▼ Head of Ballista arrow facing south
+  * ramp down
+  * track ramp down
+32.   Unexplored underground
+  * spaces in text messages
+  * black background on the title screen and interface menu
+33. ! Various status icons
+  * text
+34. " Shrub
+  * quotation marks
+  * Carpenter's workshop tile
+  * kobold's glowing eyes
+35. # floor grates
+  * labyrinths on travel map
+  * text
+  * Sandstone
+  * Rock salt
+  * Basalt
+  * Gypsum
+36. $ Coins
+37. % Prepared meal
+  * unexplored underground
+  * screw pump in action
+  * Siltstone
+  * Slate
+  * Brimstone
+  * Kimberlite
+  * Bismuthinite
+  * Realgar
+  * Stibnite
+  * Marcasite
+  * Olivine
+  * Orthoclase
+  * Microcline
+  * Petrified wood
+  * Brimstone
+  * Pyrolusite 
+38. & Demons
+39. ' Rough floors
+  * unexplored underground
+  * Claystone
+  * Rhyolite
+  * Periclase
+40. ( Foreign object opening tag
+  * tile in bowyer's workshop
+  * waxing moon on travel map
+  * text
+41. ) Foreign object closing tag
+  * waning moon on travel map
+  * text
+42. * Ore
+  * glowing pits
+  * superior quality tags
+  * key reference
+  * working gear assembly
+  * gem floodgate
+  * Lignite
+43. + Smooth/constructed floors
+  * injured status
+  * finely-crafted quality tags
+  * text
+  * block/bar bridge or road
+  * towns on world map
+44. 
+  * Rough floors
+  * Claystone
+  * unexplored underground
+  * text
+45. - Scepters
+  * arrows in flight
+  * well-crafted quality tags
+  * keyboard reference
+  * Part of animation when two creatures or dwarves are on the same spot
+46. . Rough floors
+  * Dacite
+  * text
+  * unexplored underground
+47. / Weapons
+  * bolts
+  * Ballista tile
+  * text
+48. 0 Coffins
+  * text
+49. 1 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+50. 2 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+51. 3 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+52. 4 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+53. 5 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+54. 6 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+55. 7 Text
+  * fluids if SHOW_FLOW_AMOUNTS is YES in d_init.txt
+56. 8 Fortress gates on travel map
+  * text
+57. 9 Text
+58. : Wild strawberry
+  * prickle berry
+  * fisher berry
+  * sun berry
+  * snowstorms
+  * underground shrubs
+  * command menu text
+59. ; Mason's workshop
+  * Kitchen
+  * command menu text (Movies key)
+60. < Stairs up
+  * brackets around squad names
+  * "Less than 1 unit weight" on Trading screen.
 61.  `=`  
   * hamlets (world map)
   * Empty [stockpiles](dwarffortresswiki.org/index.php/Stockpile_design)
   * Chert
   * Gneiss
   * Sylvite
-  4. Chromite
+  * Chromite
   * Kaolinite
 
 ```
