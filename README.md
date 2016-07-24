@@ -21,10 +21,9 @@ Dwarf Fortress
 
 Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
 
-So, what do all these silly symbols even mean?
-
-0. ` `
+* ` `
   * Used for background tiles in the intro CMV and background tiles of interface screens
+
 1. `☺#` Civilian dwarves
 2. `☻#` Military dwarves
 3. `♥` Dimple cups
