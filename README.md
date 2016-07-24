@@ -93,12 +93,13 @@ So, what do all these silly symbols even mean?
 60 < Stairs up, brackets around squad names, "Less than 1 unit weight" on Trading screen.
 ```
 61.  `=`  
-  * Empty Stockpiles, hamlets on world map
-  1. Chert
-  2. Gneiss
-  3. Sylvite
+  * hamlets (world map)
+  * Empty [stockpiles](dwarffortresswiki.org/index.php/Stockpile_design)
+  * Chert
+  * Gneiss
+  * Sylvite
   4. Chromite
-  5. Kaolinite
+  * Kaolinite
 
 ```
 62 > Stairs down, brackets around squad names.
