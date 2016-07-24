@@ -29,7 +29,15 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
 2. `☻#` Military dwarves
 3. `♥` Dimple cups
 4. `♦` Cut gems, large gems
-5. `♣` Fungiwood trees, Spore trees, Acacia trees, Mangrove trees, Maple trees, quarry bushes, Alder trees, Birch trees
+5. `♣`
+  * Fungiwood trees
+  * Spore trees
+  * Acacia trees
+  * Mangrove trees
+  * Maple trees
+  * quarry bushes
+  * Alder trees
+  * Birch trees
 6. `♠` Plump helmets, Tower-caps, Black-caps, Goblin-caps, Nether-caps, Oak trees, quarry bush leaves, Mahogany trees, Chestnut trees, Ash trees
 7. `•` Stone, solid workshop tile for several workshops like the magma smelter, river sources in main map, caves in main map, moon on travel map
 
