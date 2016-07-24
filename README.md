@@ -91,8 +91,18 @@ So, what do all these silly symbols even mean?
 58 : Wild strawberry*, prickle berry*, fisher berry*, sun berry*, snowstorms, underground shrubs*, command menu text
 59 ; Mason's workshop, Kitchen, command menu text (Movies key)
 60 < Stairs up, brackets around squad names, "Less than 1 unit weight" on Trading screen.
-61 = Empty Stockpiles, hamlets on world map, *Chert*, Gneiss*, Sylvite*, Chromite*, Kaolinite*
-62 > Stairs down, brackets around squad names.
+```
+
+#61 = Empty Stockpiles, hamlets on world map
+#* Chert
+#* Gneiss
+#* Sylvite
+#* Chromite
+#* Kaolinite
+#62 > Stairs down, brackets around squad names.
+
+```
+
 63 ? "Task assigned" indicator, looking for path
 64 @ berserk dwarf#, adventurer#, dwarven merchants#, dwarven caravan guards#, dwarven diplomat#, adventurer's location on map 65 A Alligator#, Tile in Farm Workshop, text
 66 B Bears#, text
