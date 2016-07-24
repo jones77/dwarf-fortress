@@ -101,10 +101,10 @@ So, what do all these silly symbols even mean?
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-<nl>
+<ol>
 <li>test
 <li>test
-<nl>
+<ol>
 
 #61 = Empty Stockpiles, hamlets on world map
 #* Chert
