@@ -23,6 +23,7 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
 
 So, what do all these silly symbols even mean?
 
+```
 00   Used for background tiles in the intro CMV and background tiles of interface screens
 01 ☺# Civilian dwarves
 02 ☻# Military dwarves
@@ -289,3 +290,4 @@ Create a free website
 Powered by
 Start your own free website
 A surprisingly easy drag & drop site creator. Learn more.
+```
