@@ -93,6 +93,14 @@ So, what do all these silly symbols even mean?
 60 < Stairs up, brackets around squad names, "Less than 1 unit weight" on Trading screen.
 ```
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 #61 = Empty Stockpiles, hamlets on world map
 #* Chert
 #* Gneiss
