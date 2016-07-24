@@ -21,7 +21,8 @@ Dwarf Fortress
 
 Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
 
-* `zero` ` `
+* ` `
+  * /zero/
   * Used for background tiles in the intro CMV and background tiles of interface screens
 
 1. `☺#` Civilian dwarves
