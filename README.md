@@ -4,4 +4,5 @@
 
 ```
 Pocker  Smaller  Small   Medium  Large  Larger
-Lowest  Lower    Medium  High    Higher```
+Lowest  Lower    Medium  High    Higher
+```
