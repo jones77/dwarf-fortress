@@ -101,6 +101,11 @@ So, what do all these silly symbols even mean?
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+<nl>
+<li>test
+<li>test
+<nl>
+
 #61 = Empty Stockpiles, hamlets on world map
 #* Chert
 #* Gneiss
