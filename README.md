@@ -92,12 +92,12 @@ So, what do all these silly symbols even mean?
 59 ; Mason's workshop, Kitchen, command menu text (Movies key)
 60 < Stairs up, brackets around squad names, "Less than 1 unit weight" on Trading screen.
 ```
-#61  =  Empty Stockpiles, hamlets on world map
-  # Chert
-  # Gneiss
-  # Sylvite
-  # Chromite
-  # Kaolinite
+61.  =  Empty Stockpiles, hamlets on world map
+  1. Chert
+  2. Gneiss
+  3. Sylvite
+  4. Chromite
+  5. Kaolinite
 
 ```
 62 > Stairs down, brackets around squad names.
