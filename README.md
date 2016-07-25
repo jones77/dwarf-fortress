@@ -1,21 +1,18 @@
 # Dwarf Fortress
 
+## Game Modes
+
+* Adventure Mode
+* Fortress Mode
+* Masterwork
+
 ## Map Generation
 
-```
-Pocker  Smaller  Small   Medium  Large  Larger
-        Year 1050
-Lowest  Lower    Medium  High    Higher
-```
-
-
-Dwarf Fortress 	
-	
-
-    Home
-    Adventure Mode
-    Fortress Mode
-    Masterwork
+|       |           |        |         |        |        |
+|-------|-----------|--------|---------|--------|--------|
+|Pocket |  Smaller  | Small  | Medium  | Large  | Larger |
+|       | Year 1050 |        |         |        |        |
+|Lowest | Lower     | Medium | High    | Higher |        |
 
 ## Symbols Reference
 
@@ -55,14 +52,16 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
   * river sources in main map
   * caves in main map
   * moon on travel map
-8. ◘ Solid workshop tile for several other workshops like the magma forge
+8. `◘`
+  * Solid workshop tile for several other workshops like the magma forge
   * tanner's shop
   * catapult cup
   * fortress keeps on travel map
   * nest box tool
   * nest box building
   * book
-9. ○ Well
+9. `○`
+  * Well
   * vermin colony
   * millstone
   * quern
@@ -70,14 +69,20 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
   * fortress walls on travel map
   * sun behind clouds on travel map
   * fortresses on world map
-10. ◙ Unknown
-11. ♂ Male sign
+10. `◙`
+  * Unknown
+11. `♂`
+  * Male sign
   * bags
-12. ♀ Female sign
+12. `♀`
+  * Female sign
   * amulet
-13. ♪ Ladles
-14. ♫ Armor stands
-15. ☼ Unmined Gem Cluster
+13. `♪`
+  * Ladles
+14. `♫`
+  * Armor stands
+15. `☼`
+  * Unmined Gem Cluster
   * Rough Gems and Raw Glass
   * unmined bituminous coal
   * mined bituminous coal
@@ -89,20 +94,26 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
   * gear assemblies
   * fireballs
   * bandit camps on travel map
-16. ► Head of Ballista arrow facing east
+16. `►`
+  * Head of Ballista arrow facing east
   * manta ray
-17. ◄ Head of Ballista arrow facing west
-18. ↕
-19. ‼ Cages
-  *on-fire symbol
+17. `◄`
+  * Head of Ballista arrow facing west
+18. `↕`
+19. `‼`
+  * Cages
+  * on-fire symbol
   * vertical bars
-20. ¶ Mugs
+20. `¶`
+  * Mugs
   * largest forest retreats
   * cumulonimbus clouds on travel map
   * Highwood trees
-21. § Restraints
+21. `§
+  * Restraints
   * whip vine
-22. ▬ Logs
+22. `▬`
+  * Logs
   * hive tool
   * hive building
 23. ↨ Cedar* trees
