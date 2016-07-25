@@ -22,10 +22,14 @@ Taken from http://dorfs.weebly.com/help-what-do-all-these-symbols-mean.html
   * *zero*
   * Used for background tiles in the intro CMV and background tiles of interface screens
 
-1. `☺#` Civilian dwarves
-2. `☻#` Military dwarves
-3. `♥` Dimple cups
-4. `♦` Cut gems, large gems
+1. `☺#`
+  * Civilian dwarves
+2. `☻#`
+  * Military dwarves
+3. `♥`
+  * Dimple cups
+4. `♦`
+  * Cut gems, large gems
 5. `♣`
   * Fungiwood trees
   * Spore trees
