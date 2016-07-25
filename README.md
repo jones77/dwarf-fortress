@@ -1,6 +1,6 @@
-# Dwarf Fortress
+# *D W A R F   F O R T R E S S*
 
-## Game Modes
+# Game Modes
 
 * Adventure Mode
 * Fortress Mode
@@ -452,3 +452,9 @@ Powered by
 Start your own free website
 A surprisingly easy drag & drop site creator. Learn more.
 ```
+
+# End of Game
+
+## Abandoned
+
+* Your settlment has been abandoned.
