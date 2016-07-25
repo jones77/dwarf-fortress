@@ -1,4 +1,4 @@
-# *D W A R F   F O R T R E S S*
+# **D W A R F   F O R T R E S S**
 
 # Game Modes
 
