@@ -1,4 +1,4 @@
-# **D W A R F&nbsp;&nbsp;&nbsp;F O R T R E S S**
+# **DWARF FORTRESS CHEATSHEET**
 
 # Game Modes
 
